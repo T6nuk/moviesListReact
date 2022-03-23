@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .gallery_item {
+    display: inline-block;
+    margin:1rem;
+  }
+  
+  .gallery_item_image {
+    width: 300px;
+    height: auto;
+  }
